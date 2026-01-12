@@ -84,4 +84,3 @@ Embedded Systems | IoT | Arduino | ESP32
 
 ---
 
-⭐ If you like this project, don’t forget to **star the repository**!
