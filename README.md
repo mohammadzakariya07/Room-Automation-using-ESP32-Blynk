@@ -57,19 +57,7 @@ Users can remotely control **fans and lights** through a mobile application over
 4. Corresponding relay switches ON/OFF  
 5. Appliance state changes instantly  
 
----
 
-## 🖼️ Project Images
-(Add images inside the Images folder)
-
----
-
-## 🧠 Skills Demonstrated
-- ESP32 Programming  
-- IoT using Blynk  
-- Relay interfacing  
-- Wi-Fi communication  
-- Smart home automation  
 
 ---
 
